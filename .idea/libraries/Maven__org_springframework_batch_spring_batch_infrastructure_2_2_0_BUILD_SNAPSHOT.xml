@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.batch:spring-batch-infrastructure:2.2.0.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/2.2.0.BUILD-SNAPSHOT/spring-batch-infrastructure-2.2.0.BUILD-20130501.030612-709.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/2.2.0.BUILD-SNAPSHOT/spring-batch-infrastructure-2.2.0.BUILD-20130502.030112-710.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/2.2.0.BUILD-SNAPSHOT/spring-batch-infrastructure-2.2.0.BUILD-20130501.030612-709-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/2.2.0.BUILD-SNAPSHOT/spring-batch-infrastructure-2.2.0.BUILD-20130502.030112-710-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/2.2.0.BUILD-SNAPSHOT/spring-batch-infrastructure-2.2.0.BUILD-20130501.030612-709-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/2.2.0.BUILD-SNAPSHOT/spring-batch-infrastructure-2.2.0.BUILD-20130502.030112-710-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
