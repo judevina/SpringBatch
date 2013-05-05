@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa3dac99-74f3-4c1b-8525-2326bb94c8af" name="Default" comment="Write bean and listerner added">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_batch_spring_batch_infrastructure_2_2_0_BUILD_SNAPSHOT.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_batch_spring_batch_infrastructure_2_2_0_BUILD_SNAPSHOT.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringBatch.iml" afterPath="$PROJECT_DIR$/SpringBatch.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/fromdb/contextFromDB.xml" afterPath="$PROJECT_DIR$/src/main/resources/fromdb/contextFromDB.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="fa3dac99-74f3-4c1b-8525-2326bb94c8af" name="Default" comment="Write bean and listerner added" />
     <ignored path="SpringBatch.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/a.dummy" changelist="fa3dac99-74f3-4c1b-8525-2326bb94c8af" time="1367053695043" ignored="false" />
